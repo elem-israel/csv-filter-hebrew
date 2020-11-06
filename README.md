@@ -6,7 +6,7 @@ Uses recognition of Hebrew "vowels" (אותיות אהו"י) to decide which row
 
 this function filters only rows containing Hebrew vowels
 
-# ```csvFilterHeb(inputPath,outputName,relevantCol)```
+ ```csvFilterHeb(inputPath,outputName,relevantCol)```
 
 inputPath = path of input csv file ('C:\path\input.csv')
 
