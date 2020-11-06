@@ -8,7 +8,7 @@ this function filters only rows containing Hebrew vowels
 
 # ```csvFilterHeb(inputPath,outputName,relevantCol)```
 
-inputPath = path of input csv file ('C:path\input.csv')
+inputPath = path of input csv file ('C:\path\input.csv')
 
 outputName = output of file name ('onlyHeb.csv')
 
